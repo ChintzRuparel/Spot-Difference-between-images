@@ -1,7 +1,7 @@
 # Spot-Difference-between-images
 
 # Aim:
-To find out differnce between two images using SSIM and fill the images with the part missing.
+To find out difference between two images using SSIM and fill the images with the part missing.
 
 # Analysis Of The Code:
 
